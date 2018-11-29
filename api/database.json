@@ -1,0 +1,77 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "type": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8021733250892"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "type": "curry",
+      "ethnicity": "thai"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "type": "pasta",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "type": "vegetarian",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 6,
+      "name": "Tomato lentil curry soup",
+      "type": "vegetarian",
+      "ethnicity": "unknown"
+    },
+    {
+      "id": 8,
+      "name": "Okonomiyaki",
+      "type": "omlette pancake",
+      "ethnicity": "japanese"
+    },
+    {
+      "name": "Tacos Pastor",
+      "type": "taco",
+      "ethnicity": "mexican",
+      "id": 9
+    },
+    {
+      "name": "Fish Tacos",
+      "type": "taco",
+      "ethnicity": "mexican",
+      "id": 10
+    },
+    {
+      "name": "Chorizo Tacos",
+      "type": "taco",
+      "ethnicity": "mexican",
+      "id": 11
+    },
+    {
+      "name": "Sausage and mushroom pizza",
+      "type": "pizza",
+      "ethnicity": "italian",
+      "id": 14
+    },
+    {
+      "name": "Sausage and mushroom pizza",
+      "type": "pizza",
+      "ethnicity": "italian",
+      "id": 15
+    },
+    {
+      "name": "Sausage and mushroom pizza",
+      "type": "pizza",
+      "ethnicity": "italian",
+      "id": 16
+    }
+  ]
+}
