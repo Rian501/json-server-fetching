@@ -1,11 +1,5 @@
 let arrayOfFoods = [];
 
-
-
-
-
-
-
 fetch("http://localhost:8088/food/8")
   .then(foods => foods.json())
   .then(parsedFoods => {
@@ -15,15 +9,6 @@ fetch("http://localhost:8088/food/8")
   })
   
   console.log("arrayOfFood below then", arrayOfFoods);
-
-
-
-
-
-
-
-
-
 
 let pizza = {
   name: "Sausage and mushroom pizza",
