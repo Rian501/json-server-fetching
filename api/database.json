@@ -5,73 +5,70 @@
       "name": "Linguine",
       "type": "pasta",
       "ethnicity": "italian",
-      "barcode": "8021733250892"
+      "barcode": "0076808020137"
     },
     {
       "id": 3,
       "name": "Green curry",
       "type": "curry",
-      "ethnicity": "thai"
+      "ethnicity": "thai",
+      "barcode": "00709583"
     },
     {
       "id": 4,
       "name": "Ravioli Funghi",
       "type": "pasta",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "8710400274117"
     },
     {
       "id": 5,
       "name": "Tuscan Soup",
       "type": "vegetarian",
-      "ethnicity": "italian"
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
     },
     {
       "id": 6,
       "name": "Tomato lentil curry soup",
       "type": "vegetarian",
-      "ethnicity": "unknown"
+      "ethnicity": "unknown",
+      "barcode": "01498257"
     },
     {
       "id": 8,
       "name": "Okonomiyaki",
       "type": "omlette pancake",
-      "ethnicity": "japanese"
+      "ethnicity": "japanese",
+      "barcode": "4549741019736"
     },
     {
       "name": "Tacos Pastor",
       "type": "taco",
       "ethnicity": "mexican",
-      "id": 9
+      "id": 9,
+      "barcode": "8410076481368"
     },
     {
       "name": "Fish Tacos",
       "type": "taco",
       "ethnicity": "mexican",
-      "id": 10
+      "id": 10,
+      "barcode": "8410076481368"
     },
     {
       "name": "Chorizo Tacos",
       "type": "taco",
       "ethnicity": "mexican",
-      "id": 11
+      "id": 11,
+      "barcode": "8410076481368"
     },
     {
       "name": "Sausage and mushroom pizza",
       "type": "pizza",
       "ethnicity": "italian",
-      "id": 14
-    },
-    {
-      "name": "Sausage and mushroom pizza",
-      "type": "pizza",
-      "ethnicity": "italian",
-      "id": 15
-    },
-    {
-      "name": "Sausage and mushroom pizza",
-      "type": "pizza",
-      "ethnicity": "italian",
-      "id": 16
+      "id": 14,
+      "barcode": "5053947757426"
     }
   ]
 }
